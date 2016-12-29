@@ -6,10 +6,10 @@
 name: Seedtag Engineering
 
 # Short bio or description (displayed in the header)
-description: Blog to share the tricks and tips that the engineering team learns while developing Seedtag product.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.seedtag.com/assets/common/icons/logo.svg
+avatar: https://raw.githubusercontent.com/seedtag/seedtag.github.io/master/images/seedtag-logo.png
 
 #
 # Flags below are optional
