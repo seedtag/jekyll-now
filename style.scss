@@ -199,6 +199,9 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  a:hover {
+    color: inherit;
+  }
 }
 
 .site-description {
